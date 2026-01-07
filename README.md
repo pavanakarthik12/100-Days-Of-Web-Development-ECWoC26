@@ -273,7 +273,6 @@ Then, modify the files to build your todo list functionality.
 
 ---
 
-
 ## 🔄 Git Workflow Guidelines
 
 To maintain a clean and collaborative codebase, follow these Git workflow guidelines:
@@ -311,12 +310,6 @@ To maintain a clean and collaborative codebase, follow these Git workflow guidel
 - Avoid force pushes to shared branches.
 - Regularly sync your fork with the upstream repository.
 - Use `.gitignore` to exclude unnecessary files (e.g., `node_modules/`, `.env`).
-
-
-## 👥 Contributors Wall of Fame
-[![Contributors](https://contributors-img.web.app/image?repo=Shubham-cyber-prog/100-Days-Of-Web-Development-ECWoC26&columns=50&animated=true)](https://github.com/Shubham-cyber-prog/100-Days-Of-Web-Development-ECWoC26/graphs/contributors)
-
-
 
 
 **Happy Coding!**
