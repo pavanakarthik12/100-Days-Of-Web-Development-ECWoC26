@@ -74,3 +74,4 @@ choices.forEach((choice) => {
 
 msg.style.cursor = "pointer";
 msg.addEventListener("click", resetGame);
+
